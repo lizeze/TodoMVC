@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <todo/>
+   <router-view></router-view>
   </div>
 </template>
 
