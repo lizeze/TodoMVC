@@ -1,1 +1,10 @@
-333
+{"questions": [
+  {
+    "question":"javascript和css样式等修改后，部署新版本，但是因为客户浏览器缓存，导致客户端还在使用老版本javascript和css，如何解决该问题"
+  },
+  {
+    "question":"操作数组"
+  }
+
+
+]}
