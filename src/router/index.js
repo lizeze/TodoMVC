@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 Vue.use(Router);
  import  todo from '../components/Todo/Todo';
- import  question from '../page/Question/index';
+ import  question from '../page/Question/first';
 export default new Router({
   linkActiveClass: 'active',
   mode:"history",
